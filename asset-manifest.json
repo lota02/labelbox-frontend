@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/labelbox-frontend/static/css/main.6b1ae025.css",
+    "main.js": "/labelbox-frontend/static/js/main.85e62aa6.js",
+    "static/js/488.2e423fee.chunk.js": "/labelbox-frontend/static/js/488.2e423fee.chunk.js",
+    "index.html": "/labelbox-frontend/index.html",
+    "main.6b1ae025.css.map": "/labelbox-frontend/static/css/main.6b1ae025.css.map",
+    "main.85e62aa6.js.map": "/labelbox-frontend/static/js/main.85e62aa6.js.map",
+    "488.2e423fee.chunk.js.map": "/labelbox-frontend/static/js/488.2e423fee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b1ae025.css",
+    "static/js/main.85e62aa6.js"
+  ]
+}

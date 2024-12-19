@@ -147,7 +147,6 @@ rich==13.7.1
 rlp==2.0.1
 scikit-image==0.18.3
 scikit-learn==1.2.0
-scikit-learn-intelex==2021.20210714.120553
 scipy==1.13.1
 shellingham==1.5.4
 simplegeneric==0.8.1
